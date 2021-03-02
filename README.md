@@ -3,7 +3,10 @@ Web catalogue of LEGO® parts for 3D printing
 
 A Symfony project 
 
-## Install
+## Auto Install
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+## Manual Install
 
 ### System requirements
 
